@@ -37,14 +37,3 @@ Das IT-Sicherheitskonzept dient als Leitfaden zur Umsetzung der **besten Praktik
 - 🛠️ **Die Integrität und Vertraulichkeit der Systeme zu gewährleisten**  
 - 🔄 **Sich kontinuierlich an neue Sicherheitsanforderungen anzupassen**  
 
-## 📂 Inhalte des Repositorys  
-📄 **[IT-Sicherheitskonzept (PDF)](./Grp.4_Sicherheitsmanagement_Projektarbeit.pdf)** – Detaillierte Beschreibung der Sicherheitsstrategie  
-📊 **Analysen und Bedrohungsmodellierung** – Identifikation relevanter Risiken  
-📜 **Richtlinien & Compliance** – Umsetzung von Sicherheitsstandards  
-📝 **Zusätzliche Dokumentationen**  
-
-## 🚀 Nutzung des Repositorys  
-Falls du das Konzept für eigene Projekte oder Analysen nutzen möchtest:  
-1. **Clone das Repository**  
-   ```bash
-   git clone https://github.com/dein-username/ships-without-diesel-security.git
