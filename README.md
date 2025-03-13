@@ -38,7 +38,7 @@ Das IT-Sicherheitskonzept dient als Leitfaden zur Umsetzung der **besten Praktik
 - 🔄 **Sich kontinuierlich an neue Sicherheitsanforderungen anzupassen**  
 
 ## 📂 Inhalte des Repositorys  
-📄 **[IT-Sicherheitskonzept (PDF)](./IT-Sicherheitskonzept.pdf)** – Detaillierte Beschreibung der Sicherheitsstrategie  
+📄 **[IT-Sicherheitskonzept (PDF)](./Grp.4_Sicherheitsmanagement_Projektarbeit.pdf)** – Detaillierte Beschreibung der Sicherheitsstrategie  
 📊 **Analysen und Bedrohungsmodellierung** – Identifikation relevanter Risiken  
 📜 **Richtlinien & Compliance** – Umsetzung von Sicherheitsstandards  
 📝 **Zusätzliche Dokumentationen**  
